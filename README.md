@@ -19,10 +19,19 @@
   ![CastMemberModels](https://user-images.githubusercontent.com/67170488/128782738-d57ad217-1f6e-4b36-a763-db8e9068ed1f.jpg)
 
 
-  Image photo retrievel story.
+  Image photo and retrievel story.
   
   For this story I was tasked with allowing the user to add a image to their create and edit page and upload that photo while the controller converts it from Jpg to a byte array. 
  
   Create View
   ![CreateView](https://user-images.githubusercontent.com/67170488/128783236-8047b98c-5e89-41aa-9d1b-8cec42ad96cb.jpg)
  
+  Edit View
+  ![EditView](https://user-images.githubusercontent.com/67170488/128783290-eae9d6bc-0462-4394-b220-0a874febe165.jpg)
+
+  Edit Controller
+  ![EditController](https://user-images.githubusercontent.com/67170488/128783317-73a68c23-db5d-4bfa-8915-4812304134a3.jpg)
+  
+  Create Controller
+  ![CreateController](https://user-images.githubusercontent.com/67170488/128783354-2b11ffca-4300-49c7-900d-4a3735248835.jpg)
+
