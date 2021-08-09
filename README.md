@@ -1,6 +1,6 @@
 # Live Project-Csharp Asp.Net MVC
 
-<h2>Introduction<h2>
+<h1>Introduction<h1>
   <p>This was a two week live project at prosper IT Consulting where I worked with a team of developers to build an interactive
     website for a theater company to manage its website content using MVC Crud Technology. This site included multiple areas to manage
     admin, subscriber, and general website needs as well and included information on the current and past productions, cast members, ect.
@@ -15,5 +15,6 @@
   
   For this story I created a model using entity framework and setting up CRUD pages for this model. I used code first workflow using entity framework.
   
-  ![ProductionPhotosModel](https://user-images.githubusercontent.com/67170488/128782401-854635f9-3add-4807-a248-3f4c6bd461b6.jpg)
+  ![CastMemberModels](https://user-images.githubusercontent.com/67170488/128782738-d57ad217-1f6e-4b36-a763-db8e9068ed1f.jpg)
+
 
