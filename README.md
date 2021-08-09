@@ -7,3 +7,13 @@
     
     The project was built using ASP.Net MVC and Entity Framework in C# with Bootstrap styling. 
     We used Visual Studio as the IDE with Azure Devops and Agile/Scrum methodologies to  develop this project.</p>
+  
+  
+  
+  
+  Create an Entity Model for Castmembers and CRUD pages.
+  
+  For this story I created a model using entity framework and setting up CRUD pages for this model. I used code first workflow using entity framework.
+  
+  ![ProductionPhotosModel](https://user-images.githubusercontent.com/67170488/128782401-854635f9-3add-4807-a248-3f4c6bd461b6.jpg)
+
