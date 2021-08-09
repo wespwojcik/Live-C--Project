@@ -13,8 +13,16 @@
   
   Create an Entity Model for Castmembers and CRUD pages.
   
-  For this story I created a model using entity framework and setting up CRUD pages for this model. I used code first workflow using entity framework.
+  For this story I created a model using entity framework and setting up CRUD pages for this model. I used code first workflow using entity framework to make this happen
+  I created an enum to establish the role each cast member is apart of. 
   
   ![CastMemberModels](https://user-images.githubusercontent.com/67170488/128782738-d57ad217-1f6e-4b36-a763-db8e9068ed1f.jpg)
 
 
+  Image photo retrievel story.
+  
+  For this story I was tasked with allowing the user to add a image to their create and edit page and upload that photo while the controller converts it from Jpg to a byte array. 
+ 
+  Create View
+  ![CreateView](https://user-images.githubusercontent.com/67170488/128783236-8047b98c-5e89-41aa-9d1b-8cec42ad96cb.jpg)
+ 
