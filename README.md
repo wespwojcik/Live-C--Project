@@ -23,7 +23,7 @@
   
   For this story I was tasked with allowing the user to add a image to their create and edit page and upload that photo while the controller converts it from Jpg to a byte array. 
  
-  <h2>Create View</h2>
+   Create View
   ![CreateView](https://user-images.githubusercontent.com/67170488/128783766-066c5abd-3337-4c01-b5fd-37adde7fbcfd.jpg)
 
  
