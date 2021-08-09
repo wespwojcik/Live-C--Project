@@ -23,16 +23,16 @@
   
   For this story I was tasked with allowing the user to add a image to their create and edit page and upload that photo while the controller converts it from Jpg to a byte array. 
  
-   Create View
+   <b>Create View</b>
   ![CreateView](https://user-images.githubusercontent.com/67170488/128783766-066c5abd-3337-4c01-b5fd-37adde7fbcfd.jpg)
 
  
-  <h2>Edit View</h2>
+  <b>Edit View</b>
   ![EditView](https://user-images.githubusercontent.com/67170488/128783290-eae9d6bc-0462-4394-b220-0a874febe165.jpg)
 
-  <h2>Edit Controller</h2>
+  <b>Edit Controller</b>
   ![EditController](https://user-images.githubusercontent.com/67170488/128783317-73a68c23-db5d-4bfa-8915-4812304134a3.jpg)
   
-  <h2>Create Controller</h2>
+  <b>Create Controller</b>
   ![CreateController](https://user-images.githubusercontent.com/67170488/128783354-2b11ffca-4300-49c7-900d-4a3735248835.jpg)
 
