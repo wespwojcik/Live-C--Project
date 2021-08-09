@@ -35,3 +35,20 @@
   <b>Create Controller</b>
   ![CreateController](https://user-images.githubusercontent.com/67170488/128783354-2b11ffca-4300-49c7-900d-4a3735248835.jpg)
 
+
+
+  Create Index page with styled Cards story
+  
+  For this story I was tasked with displaying the contents of my castmembers model on a bootstrap card. In order to achieve this I had to convert my byte array image file back     into a jpg file to properly display the image. I created an asynchronous method which I used to convert the Jpg before I actually rendered it out to a view page.
+  
+  
+  <b>Index Controller</b>
+  ![IndexController](https://user-images.githubusercontent.com/67170488/128784371-c6b7c220-7ed1-4e19-a786-68a91d2980ee.jpg)
+  
+  <b>Index View</b>
+  ![Index](https://user-images.githubusercontent.com/67170488/128784547-26cc19f1-2b1b-493f-93f6-4ca871f49472.jpg)
+
+
+  <b>Index Card UI</b>
+  
+  ![Card_Final](https://user-images.githubusercontent.com/67170488/128784560-d5aa6dbd-7c77-40df-9051-cd04e9897b2b.jpg)
