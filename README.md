@@ -52,3 +52,15 @@
   <b>Index Card UI</b>
   
   ![Card_Final](https://user-images.githubusercontent.com/67170488/128784560-d5aa6dbd-7c77-40df-9051-cd04e9897b2b.jpg)
+  
+  
+  
+<h1>Final take away and other skills learned</h1>
+This project was an overall amazing experience and was very engaging as a Junior Developer. Through doing this I was able to:
+
+<ul>
+<li>Increase my knowledgebase of programming languages and concepts used.</li>
+<li>Improve the project flow by communicating with the team about roadblocks and other challenges.</li>
+<li>Learn new efficiencies from other developers by observing their workflow and asking questions.</li>
+<li>Focus on writing clean efficient code.</li>
+</ul>
